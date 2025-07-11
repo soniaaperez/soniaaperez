@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Sonia
 
 🎮 Desarrollador de videojuegos | 📱 Desarrollador Android | 🛡️ Futuro especialista en ciberseguridad  
 Apasionado por crear experiencias digitales únicas, ya sea a través de juegos, apps móviles o aplicaciones web.
