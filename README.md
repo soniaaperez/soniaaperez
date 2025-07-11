@@ -37,6 +37,19 @@ Aplicación web que conecta a dueños de mascotas mediante publicaciones y comen
 - Base de datos relacional con MySQL
 - Arquitectura en capas: controller, service, repository y modelo
 
+  ### 🎬 Gestión Cinematográfica
+
+Aplicación de escritorio en **Java** con **JavaFX** que permite consultar y gestionar un catálogo completo de películas y sus entidades relacionadas (actores, directores, géneros, etc.).
+
+- Perfiles de usuario:  
+  - **Cliente** para navegar y buscar películas.  
+  - **Administrador** con panel para CRUD completo y validación de datos.
+
+- Tecnologías clave: Maven, MySQL, JDBC, patrón DAO, arquitectura en capas.
+
+- Funcionalidades destacadas: búsqueda avanzada, paginación, gestión de entidades, interfaz intuitiva con FXML.
+
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
