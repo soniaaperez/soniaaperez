@@ -78,4 +78,4 @@ Aplicación web que conecta a dueños de mascotas mediante publicaciones y comen
 
 ---
 
-⭐ ¡Gracias por pasarte por mi perfil!
+⭐ ¡Gracias por ver mi perfil!
