@@ -58,8 +58,8 @@ Aplicación web que conecta a dueños de mascotas mediante publicaciones y comen
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide=prs)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=soniaaperez&show_icons=true&theme=radical&hide=prs)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=soniaaperez&layout=compact&theme=radical)
 
 ---
 
